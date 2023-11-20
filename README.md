@@ -16,6 +16,7 @@ Nesse reposotório armazenar resumos códigos programáveis em Portugol Studio c
 ![Hardware](https://img.freepik.com/vetores-premium/hardware-de-computador_80590-1785.jpg?w=2000)
 
 - Corresponde ao conjunto de programas desenvolvido por linguagens de programação responsável pelo controle do sistema que executam tarefas em conjunto com hardware ou sobre um hardware.
+
 ![Software](https://static.todamateria.com.br/upload/so/ft/softwaresexemplos-0-cke.jpg?auto_optimize=low)
 
 - O principal componente de um programa de computador é a sua lógica e encadear pensamentos para atingir determinado objetivo.
