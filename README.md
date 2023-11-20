@@ -14,7 +14,7 @@ Nesse reposotório armazenar resumos códigos programáveis em Portugol Studio c
 ## 📚 Conceitos:
 - Está associado à parte física: circuitos, placas, monitor, teclado...
 ![Hardware](https://img.freepik.com/vetores-premium/hardware-de-computador_80590-1785.jpg?w=2000)
-- Corresponde ao conjunto de programas constuidos por linguagens de programação responsáveis pelo controle do sistema que executam tarefas em conjunto com hardware ou sobre um hardware.
+- Corresponde ao conjunto de programas desenvolvido por linguagens de programação responsáveis pelo controle do sistema que executam tarefas em conjunto com hardware ou sobre um hardware.
 ![Software](https://static.todamateria.com.br/upload/so/ft/softwaresexemplos-0-cke.jpg?auto_optimize=low)
 - O principal componente de um programa de computador é a sua lógica, Encadear pensamentos para atingir determinado objetivo.
 ![logica](https://img.freepik.com/vetores-premium/jovem-que-tem-uma-boa-ideia_1133-462.jpg?size=626&ext=jpg)
