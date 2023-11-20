@@ -13,6 +13,7 @@ Nesse reposotório armazenar resumos códigos programáveis em Portugol Studio c
 - Saída de Dados
 ## 📚 Conceitos:
 - Está associado à parte física: circuitos, placas, monitor, teclado...
+
 ![Hardware](https://img.freepik.com/vetores-premium/hardware-de-computador_80590-1785.jpg?w=2000)
 
 - Corresponde ao conjunto de programas desenvolvido por linguagens de programação responsável pelo controle do sistema que executam tarefas em conjunto com hardware ou sobre um hardware.
